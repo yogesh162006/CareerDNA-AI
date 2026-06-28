@@ -1,0 +1,123 @@
+skill,aliases,category,learning_weeks
+Python,python,Programming,4
+Java,java,Programming,6
+C,c language,Programming,4
+C++,cpp;c++,Programming,6
+C#,csharp;c#,Programming,5
+JavaScript,javascript;js,Programming,4
+TypeScript,typescript;ts,Programming,4
+Go,golang,Programming,5
+Rust,rust,Programming,6
+PHP,php,Programming,4
+HTML,html5,Frontend,2
+CSS,css3,Frontend,2
+Bootstrap,bootstrap,Frontend,2
+Tailwind CSS,tailwind;tailwindcss,Frontend,2
+React,reactjs;react,Frontend,4
+Angular,angularjs;angular,Frontend,5
+Vue.js,vue;vuejs,Frontend,4
+Next.js,nextjs;next.js,Frontend,4
+Node.js,nodejs;node.js,Backend,4
+Express.js,express;expressjs,Backend,3
+Django,django,Backend,5
+Flask,flask,Backend,3
+FastAPI,fastapi,Backend,3
+Spring Boot,springboot;spring boot,Backend,6
+ASP.NET,asp.net;dotnet,Backend,5
+REST API,rest api;restful api,Backend,3
+GraphQL,graphql,Backend,4
+SQL,sql,Database,3
+MySQL,mysql,Database,3
+PostgreSQL,postgresql;postgres,Database,4
+MongoDB,mongodb,Database,4
+SQLite,sqlite,Database,2
+Oracle Database,oracle sql;oracle database,Database,5
+Redis,redis,Database,3
+Firebase,firebase,Database,3
+Git,git,Version Control,1
+GitHub,github,Version Control,1
+GitLab,gitlab,Version Control,1
+Bitbucket,bitbucket,Version Control,1
+Docker,docker,DevOps,3
+Kubernetes,k8s;kubernetes,DevOps,6
+Jenkins,jenkins,DevOps,4
+Terraform,terraform,DevOps,5
+Ansible,ansible,DevOps,4
+CI/CD,continuous integration;continuous deployment,DevOps,3
+Linux,linux,Operating Systems,4
+Ubuntu,ubuntu,Operating Systems,2
+Windows Server,windows server,Operating Systems,3
+Shell Scripting,bash;shell scripting,Operating Systems,3
+AWS,amazon web services;aws,Cloud,6
+Microsoft Azure,azure,Cloud,6
+Google Cloud Platform,gcp;google cloud,Cloud,6
+AWS Lambda,lambda,Cloud,3
+EC2,amazon ec2;ec2,Cloud,3
+S3,amazon s3;s3,Cloud,2
+Cloud Computing,cloud computing,Cloud,4
+Machine Learning,machine learning;ml,AI/ML,8
+Deep Learning,deep learning;dl,AI/ML,8
+Artificial Intelligence,ai;artificial intelligence,AI/ML,8
+TensorFlow,tensorflow,AI/ML,4
+PyTorch,pytorch,AI/ML,4
+Scikit-learn,sklearn;scikit learn,AI/ML,3
+Computer Vision,computer vision,AI/ML,6
+NLP,natural language processing;nlp,AI/ML,6
+Generative AI,genai;generative ai,AI/ML,6
+LLM,llm;large language model,AI/ML,6
+LangChain,langchain,AI/ML,3
+RAG,retrieval augmented generation;rag,AI/ML,4
+Data Analysis,data analytics;data analysis,Data Analytics,4
+Power BI,powerbi;power bi,Data Analytics,3
+Tableau,tableau,Data Analytics,3
+Excel,microsoft excel;excel,Data Analytics,2
+Pandas,pandas,Data Analytics,3
+NumPy,numpy,Data Analytics,2
+Matplotlib,matplotlib,Data Analytics,2
+Statistics,statistics,Data Analytics,4
+Data Visualization,data visualization,Data Analytics,3
+Cybersecurity,cyber security;cybersecurity,Cybersecurity,6
+Network Security,network security,Cybersecurity,4
+Ethical Hacking,ethical hacking,Cybersecurity,6
+Penetration Testing,pentesting;penetration testing,Cybersecurity,6
+OWASP,owasp,Cybersecurity,3
+Cryptography,cryptography,Cybersecurity,5
+TCP/IP,tcp/ip;networking,Networking,3
+Computer Networks,computer networking;networks,Networking,4
+Routing,routing,Networking,3
+Switching,switching,Networking,3
+Cisco,cisco,Networking,4
+CCNA,ccna,Networking,5
+Operating Systems,operating systems,Computer Fundamentals,4
+Data Structures,data structures;dsa,Computer Fundamentals,6
+Algorithms,algorithms,Computer Fundamentals,6
+OOP,Object Oriented Programming;oop,Computer Fundamentals,5
+System Design,system design,Computer Fundamentals,6
+Software Testing,software testing,Testing,3
+Manual Testing,manual testing,Testing,2
+Automation Testing,automation testing,Testing,4
+Selenium,selenium,Testing,4
+JUnit,junit,Testing,2
+Agile,agile,Project Management,2
+Scrum,scrum,Project Management,2
+Jira,jira,Project Management,1
+Problem Solving,problem solving,Soft Skills,2
+Communication,communication skills,Soft Skills,2
+Teamwork,teamwork;team player,Soft Skills,2
+Leadership,leadership,Soft Skills,2
+Critical Thinking,critical thinking,Soft Skills,2
+Analytical Skills,analytical thinking;analytical skills,Soft Skills,2
+Time Management,time management,Soft Skills,1
+Presentation Skills,presentation skills,Soft Skills,1
+Technical Support,it support;technical support,IT Support,3
+Troubleshooting,troubleshooting,IT Support,3
+Computer Hardware,hardware;computer hardware,Hardware,4
+Hardware Troubleshooting,hardware troubleshooting,Hardware,4
+Motherboard,motherboard,Hardware,2
+RAM,ram,Hardware,1
+Processor,cpu;processor,Hardware,2
+Computer Assembly,pc assembly;computer assembly,Hardware,3
+Printer Support,printer troubleshooting;printer support,Hardware,2
+Laptop Repair,laptop repair,Hardware,4
+Desktop Support,desktop support,Hardware,3
+Help Desk,helpdesk;help desk,IT Support,3

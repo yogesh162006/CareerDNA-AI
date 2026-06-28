@@ -1,0 +1,18 @@
+AI/ML Intern
+
+Requirements:
+
+Python
+Machine Learning
+Deep Learning
+SQL
+TensorFlow
+Git
+Docker
+AWS
+
+Responsibilities:
+
+Build ML models.
+Work with NLP systems.
+Deploy AI applications.
